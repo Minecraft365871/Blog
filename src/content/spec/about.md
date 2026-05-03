@@ -50,7 +50,9 @@
 ## 🥵 电子宠物
 
 <div align=center>
-<img src="https://stone.professorlee.work/api/stone/Minecraft365871/Minecraft365871"/>
+ <img src="https://stone.professorlee.work/api/stone/Minecraft365871/Minecraft365871"/>
+ <img src="https://stone.professorlee.work/api/stone/Minecraft365871/Eat-Shiroko"/>
+ <img src="https://stone.professorlee.work/api/stone/Minecraft365871/Blog"/>
 </div>
 
 <div align="center">
