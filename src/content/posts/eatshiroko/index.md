@@ -3,7 +3,7 @@ title: "改了个小游戏"
 published: 2026-03-28
 updated: 2026-03-28
 description: "如何正确食用「吃掉小白子」"
-image: /cover.png
+image: ./cover.png
 tags: [音游, 使用方法, 介绍]
 category: RhythmGames
 draft: false
