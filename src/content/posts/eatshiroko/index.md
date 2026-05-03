@@ -1,0 +1,103 @@
+---
+title: "改了个小游戏"
+published: 2026-03-28
+updated: 2026-03-28
+description: "如何正确食用「吃掉小白子」"
+image: /cover.png
+tags: [音游, 使用方法，介绍]
+category: RhythmGames
+draft: false
+pinned: false
+comment: true
+lang: zh-CN
+author: "Minecraft_365871"
+---
+
+# 吃掉小白子 (Eat Shiroko)
+
+一个基于网页的音游底力训练器，支持自定义配置。
+
+<img src="/screenshot-1.jpeg" style="zoom:50%;" />
+
+<img src="/screenshot-2.jpeg" style="zoom:50%;" />
+
+## 🎮 游戏介绍
+
+这是一个类似于《别踩白块儿》的游戏，玩家需要在正确的时机按下对应的按键来获得分数。游戏支持桌面端和移动端，有灵活的自定义功能。
+
+## ✨ 特性
+
+- ⚙️ **高度自定义** - 支持自定义键位、判定时间、垂直判定等
+- 💻 **跨平台支持** - 同时支持桌面端和移动端
+- 📱 **支持垂直判定** - 可在设置中开启
+
+## 🚀 快速开始
+
+### 在线游玩
+
+直接打开 [吃掉小白子](https://eat-shiroko.pages.dev/) 即可开始游戏。
+
+### 本地运行
+
+克隆或下载本项目到本地
+
+使用 Python 启动简单服务器
+
+```python
+python -m http.server 8000
+```
+
+然后访问 `http://localhost:8000` 
+
+## 🎯 食用方式
+
+### 桌面端
+
+- 默认键位为**D, F, J, K** 
+- 按 **R** 键重新开始（游戏结束时）
+
+### 移动端
+
+- 触摸屏幕进行操作
+- 可在设置开启垂直判定
+
+## 📁 项目结构
+
+```
+├── index.html          # 主页面
+├── favicon.ico         # 网站图标
+├── static/             # 静态资源目录
+│   ├── index.css       # 样式表
+│   ├── index.js        # 游戏逻辑
+│   ├── image/          # 图片资源
+│   │   ├── ClickBefore.png
+│   │   └── AfterClicking.png
+│   ├── music/          # 音效文件
+│   │   ├── tap.mp3
+│   │   ├── err.mp3
+│   │   └── end.mp3
+```
+
+## ⚙️ 自定义设置
+
+游戏支持以下自定义选项：
+
+- **键位设置** - 自定义按键
+
+- **判定区域** - 调整垂直判定
+
+- **限制时长** - 设置时间
+
+- **轨道数量** - 调整轨道数
+
+  <img src="/screenshot-3.jpeg" style="zoom:50%;" />
+
+  <img src="/screenshot-4.jpeg" style="zoom:50%;" />
+
+## 🔗 相关链接
+
+- [源代码](https://github.com/Minecraft365871/Eat-Shiroko)
+
+## 🖥️浏览次数
+
+![浏览次数](https://count.getloli.com/@Minecraft_365871?name=Minecraft_365871&theme=rule34&padding=16&offset=0&align=top&scale=2&pixelated=1&darkmode=auto)
