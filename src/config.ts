@@ -437,7 +437,7 @@ export const commentConfig: CommentConfig = {
 		reactionsEnabled: "1",
 		emitMetadata: "1",
 		inputPosition: "top",
-		theme: "preferred_color_scheme",
+		theme: "dark_tritanopia",
 		lang: SITE_LANG,
 	    
 	},
