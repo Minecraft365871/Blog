@@ -286,23 +286,27 @@ export const navBarConfig: NavBarConfig = {
 				},
 				{
 			        name: "Discord",
-			        icon: "fa7-brands:discord",
 			        url: "https://discord.com/invite/grfmAEJ8Qj",
+					external: true,
+					icon: "fa7-brands:discord",
 		        },
 				{
 			        name: "Telegram",
+					url: "https://t.me/Magic_Cofe",
+					external: true,
 			        icon: "fa7-brands:telegram",
-			        url: "https://t.me/Magic_Cofe",
 		        },
 				{
 		        	name: "QQ",
-	        		icon: "fa7-brands:qq",
 			        url: "https://qun.qq.com/universal-share/share?ac=1&authKey=dnC6%2FB02ngll2%2BE7srdPCdJ2swz%2Bgw%2FL4%2BPXN%2FT8l0uvNx8cCkJgOFFYG6wwpBxm&busi_data=eyJncm91cENvZGUiOiIxMTA0NDE3Mzc2IiwidG9rZW4iOiJkeGpHTVpnaVhJOGRSTFAzSXJYUENKN21Ra0dwVTRQYlFhYnRCeDAxaC9UQzFHOUwvL0RXQ3FYemtSTHhGUmdSIiwidWluIjoiMjA3NzcyNzIyOSJ9&data=gn0oxzMPalJgAwBYvpYmW_CGVlyl8AfhpUprAvVfdL3eZrV1rLEcLjdSo7vauao6sxK0WncUdyLxaldIReGQ0w&svctype=4&tempid=h5_group_info",
+					external: true,
+					icon: "fa7-brands:qq",
 		        },
 				{
 		        	name: "Xbox",
-	        		icon: "fa7-brands:xbox",
 			        url: "https://www.xbox.com/play/user/minecraft365871",
+					external: true,
+					icon: "fa7-brands:xbox",
 		        },
 				
 			],
