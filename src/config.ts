@@ -59,7 +59,7 @@ export const siteConfig: SiteConfig = {
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.png
 		icon: "assets/home/home.png",
 		// 网站Logo图片路径
-		logo: "public/favicon/favicon.ico",
+		logo: "favicon/favicon.ico",
 	},
 
 	// 页面自动缩放配置
@@ -199,7 +199,7 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		// 留空以使用默认 favicon
 		 {
-		   src: '/favicon/icon.png',    // 图标文件路径
+		   src: '/favicon/favicon.ico',    // 图标文件路径
 		//   theme: 'light',              // 可选，指定主题 'light' | 'dark'
 		//   sizes: '32x32',              // 可选，图标大小
 		 }
