@@ -1,53 +1,5 @@
-```markdown
-# Dependencies
-node_modules/
-vendor/
-
-# Build outputs
-dist/
-build/
-target/
-_site/
-public/
-
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-env/
-venv/
-.venv/
-.env
-.env.local
-.env.*
-
-# Logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# Editor files
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-```
-
-Wait, let me reconsider. The only modified file is a markdown post, which is source content. No build artifacts, dependencies, or temporary files are shown in the changes. Following rule #6, since this contains only source/config files (`.md`) and no build artifacts or dependencies, the output should be empty.
-
-```markdown
-
+```ts
+// No build artifacts, dependencies, or temp files detected in changes
+// Only source/config file (src/config.ts) was modified
+// No ignores needed
 ```

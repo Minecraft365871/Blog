@@ -57,9 +57,9 @@ export const siteConfig: SiteConfig = {
 		// 顶栏标题文本
 		text: "Minecraft365871",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.png
-		icon: "assets/home/home.png",
+		icon: "/assets/home/home.png",
 		// 网站Logo图片路径
-		logo: "public/favicon/favicon.ico",
+		logo: "/favicon/favicon.ico",
 	},
 
 	// 页面自动缩放配置
