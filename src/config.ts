@@ -284,6 +284,27 @@ export const navBarConfig: NavBarConfig = {
 					external: true,
 					icon: "fa7-brands:x-twitter",
 				},
+				{
+			        name: "Discord",
+			        icon: "fa7-brands:discord",
+			        url: "https://discord.com/invite/grfmAEJ8Qj",
+		        },
+				{
+			        name: "Telegram",
+			        icon: "fa7-brands:telegram",
+			        url: "t.me/Magic_Cofe",
+		        },
+				{
+		        	name: "QQ",
+	        		icon: "fa7-brands:qq",
+			        url: "https://qun.qq.com/universal-share/share?ac=1&authKey=dnC6%2FB02ngll2%2BE7srdPCdJ2swz%2Bgw%2FL4%2BPXN%2FT8l0uvNx8cCkJgOFFYG6wwpBxm&busi_data=eyJncm91cENvZGUiOiIxMTA0NDE3Mzc2IiwidG9rZW4iOiJkeGpHTVpnaVhJOGRSTFAzSXJYUENKN21Ra0dwVTRQYlFhYnRCeDAxaC9UQzFHOUwvL0RXQ3FYemtSTHhGUmdSIiwidWluIjoiMjA3NzcyNzIyOSJ9&data=gn0oxzMPalJgAwBYvpYmW_CGVlyl8AfhpUprAvVfdL3eZrV1rLEcLjdSo7vauao6sxK0WncUdyLxaldIReGQ0w&svctype=4&tempid=h5_group_info",
+		        },
+				{
+		        	name: "Xbox",
+	        		icon: "fa7-brands:xbox",
+			        url: "https://www.xbox.com/play/user/minecraft365871",
+		        },
+				
 			],
 		},
 		{
@@ -366,15 +387,20 @@ export const profileConfig: ProfileConfig = {
 			url: "https://github.com/Minecraft365871",
 		},
 		{
-			name: "Xbox",
-			icon: "fa7-brands:xbox",
-			url: "https://www.xbox.com/play/user/minecraft365871",
-		},
-		{
 			name: "Discord",
 			icon: "fa7-brands:discord",
-			url: "https://discord.gg/MqW6TcQtVM",
+			url: "https://discord.com/invite/grfmAEJ8Qj",
 		},
+		{
+			name: "Telegram",
+	        icon: "fa7-brands:telegram",
+			url: "t.me/Magic_Cofe",
+		},
+		{
+		  	name: "QQ",
+	    	icon: "fa7-brands:qq",
+	        url: "https://qun.qq.com/universal-share/share?ac=1&authKey=dnC6%2FB02ngll2%2BE7srdPCdJ2swz%2Bgw%2FL4%2BPXN%2FT8l0uvNx8cCkJgOFFYG6wwpBxm&busi_data=eyJncm91cENvZGUiOiIxMTA0NDE3Mzc2IiwidG9rZW4iOiJkeGpHTVpnaVhJOGRSTFAzSXJYUENKN21Ra0dwVTRQYlFhYnRCeDAxaC9UQzFHOUwvL0RXQ3FYemtSTHhGUmdSIiwidWluIjoiMjA3NzcyNzIyOSJ9&data=gn0oxzMPalJgAwBYvpYmW_CGVlyl8AfhpUprAvVfdL3eZrV1rLEcLjdSo7vauao6sxK0WncUdyLxaldIReGQ0w&svctype=4&tempid=h5_group_info",
+	    },
 	],
 };
 
