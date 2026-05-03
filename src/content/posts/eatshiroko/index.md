@@ -4,7 +4,7 @@ published: 2026-03-28
 updated: 2026-03-28
 description: "如何正确食用「吃掉小白子」"
 image: /cover.png
-tags: [音游, 使用方法，介绍]
+tags: [音游, 使用方法, 介绍]
 category: RhythmGames
 draft: false
 pinned: false
@@ -17,9 +17,9 @@ author: "Minecraft_365871"
 
 一个基于网页的音游底力训练器，支持自定义配置。
 
-<img src="/screenshot-1.jpeg" style="zoom:50%;" />
+<img src="./screenshot-1.jpeg" style="zoom:50%;" />
 
-<img src="/screenshot-2.jpeg" style="zoom:50%;" />
+<img src="./screenshot-2.jpeg" style="zoom:50%;" />
 
 ## 🎮 游戏介绍
 
@@ -90,9 +90,9 @@ python -m http.server 8000
 
 - **轨道数量** - 调整轨道数
 
-  <img src="/screenshot-3.jpeg" style="zoom:50%;" />
+  <img src="./screenshot-3.jpeg" style="zoom:50%;" />
 
-  <img src="/screenshot-4.jpeg" style="zoom:50%;" />
+  <img src="./screenshot-4.jpeg" style="zoom:50%;" />
 
 ## 🔗 相关链接
 
