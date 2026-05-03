@@ -72,8 +72,6 @@
 
 <div align="center">
 
-**如果这个 README 让你笑了，请考虑给我点一个 ⭐️，毕竟这是我今天唯一的 KPI。**
-
 *Made with ☕ and questionable life choices*
 
 </div>
