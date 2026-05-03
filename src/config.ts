@@ -292,7 +292,7 @@ export const navBarConfig: NavBarConfig = {
 				{
 			        name: "Telegram",
 			        icon: "fa7-brands:telegram",
-			        url: "t.me/Magic_Cofe",
+			        url: "https://t.me/Magic_Cofe",
 		        },
 				{
 		        	name: "QQ",
@@ -394,7 +394,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Telegram",
 	        icon: "fa7-brands:telegram",
-			url: "t.me/Magic_Cofe",
+			url: "https://t.me/Magic_Cofe",
 		},
 		{
 		  	name: "QQ",
@@ -474,8 +474,8 @@ export const shareConfig: ShareConfig = {
 };
 
 export const announcementConfig: AnnouncementConfig = {
-	title: "神秘小游戏已上线", // 公告标题，填空使用i18n字符串Key.announcement
-	content: "", // 公告内容
+	title: "建议使用深色模式喵", // 公告标题，填空使用i18n字符串Key.announcement
+	content: "神秘小游戏已上线", // 公告内容
 	closable: true, // 允许用户关闭公告
 	link: {
 		enable: true, // 启用链接
