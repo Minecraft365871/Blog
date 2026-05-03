@@ -57,7 +57,7 @@ export const siteConfig: SiteConfig = {
 		// 顶栏标题文本
 		text: "Minecraft365871",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.png
-		icon: "assets/home/home.png",
+		icon: "public/assets/home/home.png",
 		// 网站Logo图片路径
 		logo: "public/favicon/favicon.ico",
 	},
@@ -421,25 +421,25 @@ export const expressiveCodeConfig: ExpressiveCodeConfig = {
 };
 
 export const commentConfig: CommentConfig = {
-	enable: false, // 启用评论功能。当设置为 false 时，评论组件将不会显示在文章区域。
-	system: "twikoo", // 评论系统选择: "twikoo" | "giscus"
+	enable: true, // 启用评论功能。当设置为 false 时，评论组件将不会显示在文章区域。
+	system: "giscus", // 评论系统选择: "twikoo" | "giscus"
 	twikoo: {
 		envId: "https://twikoo.vercel.app",
 		lang: SITE_LANG,
 	},
 	giscus: {
-		repo: "your-github-username/your-repo-name",
-		repoId: "your-repo-id",
+		repo: "Minecraft365871/Blog",
+		repoId: "R_kgDOSS8j3Q",
 		category: "Announcements",
-		categoryId: "your-category-id",
-		mapping: "pathname",
-		strict: "0",
+		categoryId: "DIC_kwDOSS8j3c4C8PuM",
+		mapping: "url",
+		strict: "1",
 		reactionsEnabled: "1",
-		emitMetadata: "0",
+		emitMetadata: "1",
 		inputPosition: "top",
 		theme: "preferred_color_scheme",
-		lang: SITE_LANG,
-		loading: "lazy",
+		lang: zh-CN,
+	    
 	},
 };
 
