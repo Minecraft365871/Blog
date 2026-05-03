@@ -438,7 +438,7 @@ export const commentConfig: CommentConfig = {
 		emitMetadata: "1",
 		inputPosition: "top",
 		theme: "preferred_color_scheme",
-		lang: zh-CN,
+		lang: SITE_LANG,
 	    
 	},
 };
